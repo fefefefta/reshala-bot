@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 2. Запустить ботяру
 ```
-python bot.py
+python main.py
 ```
 2*. Запустить в фоне с помощью какой-то умной утилиты. Я заюзаю screen
 ```
