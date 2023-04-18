@@ -2,6 +2,11 @@
 Бот для нелегального решальского бизнеса
 
 ## Установка
+0. Склонировать репу
+```
+git clone https://github.com/fefefefta/reshala-bot
+cd reshala-bot
+```
 1. Поставить окружение и установить зависимости
 ```
 python3 -m venv venv
